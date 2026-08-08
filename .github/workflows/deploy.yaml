@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: ecom-proj:latest
+  IMAGE_NAME: ecom-proj
 
 jobs:
   build-deploy:
