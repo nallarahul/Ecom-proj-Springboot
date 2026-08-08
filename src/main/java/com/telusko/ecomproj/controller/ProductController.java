@@ -20,7 +20,7 @@ public class ProductController {
     }
     @GetMapping("/")
     public String greet(){
-        return "Hello";
+        return "Hello World !! I have completed setting up Github actions !!!!";
     }
 
     @GetMapping("/product")
